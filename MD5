@@ -1,0 +1,6 @@
+bd969e7c53ba0af2e540079d0b64299f *DESCRIPTION
+f491c6c61c2d19fe05b1873a0f851522 *NAMESPACE
+f76e67335e77ccb2dc1bde0384f5b1a3 *R/HTSeed.R
+441aca0b95c42fd74834d289ca72bde5 *man/seed.extreme.Rd
+a82d2e061ebcf56858e6b969ccdc6620 *man/seed.logit.Rd
+20e80ceae30e67bd20fd4640aad24d15 *man/seed.probit.Rd
